@@ -1,0 +1,21 @@
+{
+  "name": "acx-media",
+  "version": "1.0.0",
+  "description": "ACX Media - Global Media Localization & Production",
+  "main": "app.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "media",
+    "localization",
+    "production"
+  ],
+  "author": "ACX Media",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
